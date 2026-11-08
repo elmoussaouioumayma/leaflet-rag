@@ -1,0 +1,8 @@
+// Write your evaluation questions here, one JSON object per line, after adding real leaflets to data/raw/.
+// Lines starting with // are ignored. Aim for about 20 answerable and 5 unanswerable questions.
+// Read each leaflet yourself and take the expected answer from it, so the ground truth is real.
+// expected_doc = leaflet file name without extension; expected_section = leaflet section number (1-6).
+// Example lines (remove the leading // and adapt to your files):
+// {"id": "q01", "type": "answerable", "question": "What are the common side effects of <medicine>?", "expected_doc": "<file-stem>", "expected_section": "4", "answer_keywords": ["<word from leaflet>", "<another word>"]}
+// {"id": "q02", "type": "answerable", "question": "How should <medicine> be stored?", "expected_doc": "<file-stem>", "expected_section": "5", "answer_keywords": ["<temperature>"]}
+// {"id": "u01", "type": "unanswerable", "question": "What is the capital of Australia?"}

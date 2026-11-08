@@ -1,0 +1,8 @@
+{"id": "f01", "type": "answerable", "question": "What are the side effects of Fictamol?", "expected_doc": "fictamol-250mg", "expected_section": "4", "answer_keywords": ["nausea", "rash"]}
+{"id": "f02", "type": "answerable", "question": "What is the maximum number of Fictamol tablets in 24 hours?", "expected_doc": "fictamol-250mg", "expected_section": "3", "answer_keywords": ["8 tablets"]}
+{"id": "f03", "type": "answerable", "question": "How should Testoprazole capsules be swallowed?", "expected_doc": "testoprazole-20mg", "expected_section": "3", "answer_keywords": ["whole"]}
+{"id": "f04", "type": "answerable", "question": "At what temperature should Testoprazole be stored?", "expected_doc": "testoprazole-20mg", "expected_section": "5", "answer_keywords": ["30 degrees"]}
+{"id": "f05", "type": "answerable", "question": "Does Sampleastine cause drowsiness when driving?", "expected_doc": "sampleastine-10mg", "expected_section": "2", "answer_keywords": ["drowsy"]}
+{"id": "f06", "type": "answerable", "question": "What is Sampleastine used for?", "expected_doc": "sampleastine-10mg", "expected_section": "1", "answer_keywords": ["hay fever"]}
+{"id": "f07", "type": "unanswerable", "question": "Who won the football world cup in 2014?"}
+{"id": "f08", "type": "unanswerable", "question": "What is the best recipe for chocolate cake?"}

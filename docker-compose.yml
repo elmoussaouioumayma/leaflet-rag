@@ -1,0 +1,19 @@
+# API + optional local LLM (Ollama). Start: docker compose up --build
+# Then once: docker compose exec ollama ollama pull llama3.1:8b
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    volumes:
+      - ./data/raw:/app/data/raw:ro
+      - index:/app/data/index
+    environment:
+      LLM_BASE_URL: http://ollama:11434/v1
+      LLM_MODEL: llama3.1:8b
+    depends_on: [ollama]
+  ollama:
+    image: ollama/ollama:latest
+    volumes: [ollama:/root/.ollama]
+volumes:
+  index:
+  ollama:

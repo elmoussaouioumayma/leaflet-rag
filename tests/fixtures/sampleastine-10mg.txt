@@ -1,0 +1,23 @@
+FICTIONAL TEST DOCUMENT - Sampleastine is not a real medicine. Used only for automated tests.
+
+Package leaflet: Information for the user
+Sampleastine 10 mg tablets
+
+1. What Sampleastine is and what it is used for
+Sampleastine is an antihistamine. It relieves the symptoms of hay fever, such as sneezing, a runny nose and itchy eyes.
+
+2. What you need to know before you take Sampleastine
+Sampleastine may make you drowsy. Avoid drinking alcohol while taking this medicine.
+Driving and using machines: do not drive or operate machines if you feel sleepy.
+
+3. How to take Sampleastine
+Adults: take one tablet once a day. Children under 6 years should not take these tablets.
+
+4. Possible side effects
+Common side effects: drowsiness, dry mouth and tiredness.
+
+5. How to store Sampleastine
+Store in a dry place below 25 degrees Celsius.
+
+6. Contents of the pack and other information
+Each tablet contains 10 mg of sampleastine. The tablets are round and white. Packs of 7 and 30 tablets.
